@@ -1,0 +1,5 @@
+.letter {
+    flex: 1;
+    border: 2px solid rgb(88, 8, 218);
+    text-align: center;
+} 
